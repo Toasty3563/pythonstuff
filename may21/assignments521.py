@@ -7,7 +7,8 @@ def findCaseCount():
         i += 1
     return caseCount
 
-print(findCaseCount() + "\n")
+print(findCaseCount())
+print()
 
 # Problem 2: max case count based on growth rate
 def caseCountWeeks(weeks):
